@@ -1,0 +1,15 @@
+.productItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 600px;
+    border: 3px solid teal;
+    border-radius: 5px;
+    margin: 10px;
+    background: #fff;
+    padding: 10px;
+
+    button {
+        background: orangered;
+    }
+}
